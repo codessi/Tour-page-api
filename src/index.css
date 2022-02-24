@@ -1,0 +1,9 @@
+img{
+  height: 20rem;
+  object-fit: cover;
+}
+.card{
+  margin: 2rem;
+  border: black solid;
+  padding: 2rem;
+}
