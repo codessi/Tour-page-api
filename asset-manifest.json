@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Tour-page-api/static/css/main.8326bf0e.chunk.css",
-    "main.js": "/Tour-page-api/static/js/main.322010bf.chunk.js",
-    "main.js.map": "/Tour-page-api/static/js/main.322010bf.chunk.js.map",
+    "main.js": "/Tour-page-api/static/js/main.78bd0859.chunk.js",
+    "main.js.map": "/Tour-page-api/static/js/main.78bd0859.chunk.js.map",
     "runtime-main.js": "/Tour-page-api/static/js/runtime-main.622127ed.js",
     "runtime-main.js.map": "/Tour-page-api/static/js/runtime-main.622127ed.js.map",
     "static/js/2.b79bb511.chunk.js": "/Tour-page-api/static/js/2.b79bb511.chunk.js",
     "static/js/2.b79bb511.chunk.js.map": "/Tour-page-api/static/js/2.b79bb511.chunk.js.map",
     "index.html": "/Tour-page-api/index.html",
-    "precache-manifest.3fa4211afc1f005678cdd930edb4f2df.js": "/Tour-page-api/precache-manifest.3fa4211afc1f005678cdd930edb4f2df.js",
+    "precache-manifest.8211b3af641d5e599d163403559cd64d.js": "/Tour-page-api/precache-manifest.8211b3af641d5e599d163403559cd64d.js",
     "service-worker.js": "/Tour-page-api/service-worker.js",
     "static/css/main.8326bf0e.chunk.css.map": "/Tour-page-api/static/css/main.8326bf0e.chunk.css.map",
     "static/js/2.b79bb511.chunk.js.LICENSE.txt": "/Tour-page-api/static/js/2.b79bb511.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.622127ed.js",
     "static/js/2.b79bb511.chunk.js",
     "static/css/main.8326bf0e.chunk.css",
-    "static/js/main.322010bf.chunk.js"
+    "static/js/main.78bd0859.chunk.js"
   ]
 }

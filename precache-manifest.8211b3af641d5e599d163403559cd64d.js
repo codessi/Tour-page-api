@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "26f031d8c26ce254469b20e398f18dda",
+    "revision": "f4a041f34fa173a51c38ea6d67cc32c9",
     "url": "/Tour-page-api/index.html"
   },
   {
-    "revision": "78f1f8bfb66d7c682a28",
+    "revision": "53a3de37ba4f71fa7c51",
     "url": "/Tour-page-api/static/css/main.8326bf0e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Tour-page-api/static/js/2.b79bb511.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "78f1f8bfb66d7c682a28",
-    "url": "/Tour-page-api/static/js/main.322010bf.chunk.js"
+    "revision": "53a3de37ba4f71fa7c51",
+    "url": "/Tour-page-api/static/js/main.78bd0859.chunk.js"
   },
   {
     "revision": "e07d7a3fed3a6145b06a",
