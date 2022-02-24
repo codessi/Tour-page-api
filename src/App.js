@@ -10,8 +10,8 @@ export const Appcontext = React.createContext()
 
 function App() {
 
-  const [loading, setLoading] = useState(false)
-  const [tours, setTours] = useState(data)
+  const [loading, setLoading] = useState(true)
+  const [tours, setTours] = useState([])
   const [readMore, setReadMore] = useState(true)
 
   const fetchTours = async(url) => {
@@ -32,9 +32,9 @@ function App() {
     
   }
 
-  // useEffect( () => {
-  //   fetchTours(url)
-  // }, [])
+  useEffect( () => {
+    fetchTours(url)
+  }, [])
   if(loading){
     return (
       <main>
